@@ -1,0 +1,23 @@
+{
+  "name": "please-run",
+  "version": "0.1.0",
+  "description": "Please run `npm` scripts",
+  "main": "bin/please",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiFaraz/please-run.git"
+  },
+  "keywords": ["please", "npm", "run", "script", "cli"],
+  "author": "Faraz Syed <hello@farazsyed.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HiFaraz/please-run/issues"
+  },
+  "homepage": "https://github.com/HiFaraz/please-run#readme",
+  "bin": {
+    "please": "bin/please.js"
+  }
+}
